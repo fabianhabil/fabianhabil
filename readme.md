@@ -1,6 +1,6 @@
 # Greetings, Im Fabian 👋🏻
 
-👯 I’m looking to collaborate on any project!<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about anything!<br>✉️ You can contact me at [fabianhabilramdhan@gmail.com](mailto:fabianhabilramdhan@gmail.com)
+👯 I’m looking to collaborate on any project!<br>🌱 I’m currently learning Mobile Development!<br>💬 Ask me about anything!<br>✉️ You can contact me at [fabianhabilramdhan@gmail.com](mailto:fabianhabilramdhan@gmail.com)
 
 ## 💻 Tech Stack:
 
